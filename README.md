@@ -61,14 +61,6 @@ t1421  MATCH (0 issues)
 l1621  MATCH (SAS 202 rows, R 202 rows)
 ```
 
-## Reproducing
-
-ADNI data **are not included** in this repository; the ADNI Data Use Agreement does not allow redistribution. To rerun:
-
-1. Apply for data access at [adni.loni.usc.edu](https://adni.loni.usc.edu) and download the ADNIMERGE2 R package into `ADNIMERGE2/`.
-2. Run `Rscript R/extract_adni.R` to create `data/adni_wide.csv`.
-3. Set `%let root` at the top of each SAS program, then run `adni_longitudinal.sas` followed by `adni_tlf.sas`.
-4. Run `Rscript R/adni_tlf_qc.R .` to check the TLFs.
 
 ## Acknowledgment
 
