@@ -1,0 +1,34 @@
+ord,sub,rowlbl,stat,trt0,trt1,trt2,trt3
+1,1,Age at baseline (years),n,1551,1013,266,2830
+1,2,Age at baseline (years),Mean (SD),72.74 (7.673),72.46 (7.083),70.24 (7.348),72.41 (7.467)
+1,3,Age at baseline (years),Median,72.90,72.60,70.00,72.50
+1,4,Age at baseline (years),"Min, Max","52.7, 91.4","50.5, 90.8","55.0, 87.2","50.5, 91.4"
+2,0,Sex n (%),Male,771 (49.7),511 (50.4),146 (54.9),1428 (50.5)
+2,1,Sex n (%),Female,780 (50.3),502 (49.6),120 (45.1),1402 (49.5)
+3,1,Education (years),n,1551,1013,266,2830
+3,2,Education (years),Mean (SD),16.2 (2.69),16.0 (2.76),16.0 (2.62),16.1 (2.71)
+3,3,Education (years),Median,16.0,16.0,16.0,16.0
+3,4,Education (years),"Min, Max","4, 20","4, 20","8, 20","4, 20"
+4,1,Baseline diagnosis n (%),Cognitively normal (CN),759 (48.9),323 (31.9),45 (16.9),1127 (39.8)
+4,2,Baseline diagnosis n (%),Mild cognitive impairment (MCI),645 (41.6),481 (47.5),131 (49.2),1257 (44.4)
+4,3,Baseline diagnosis n (%),Dementia,147 (9.5),209 (20.6),90 (33.8),446 (15.8)
+5,0,Amyloid PET status n (%),Not elevated,690 (44.5),193 (19.1),16 (6.0),899 (31.8)
+5,1,Amyloid PET status n (%),Elevated,263 (17.0),401 (39.6),135 (50.8),799 (28.2)
+5,99,Amyloid PET status n (%),Missing,598 (38.6),419 (41.4),115 (43.2),1132 (40.0)
+6,1,Enrolment protocol n (%),ADNI1,415 (26.8),308 (30.4),87 (32.7),810 (28.6)
+6,2,Enrolment protocol n (%),ADNIGO,76 (4.9),44 (4.3),8 (3.0),128 (4.5)
+6,3,Enrolment protocol n (%),ADNI2,420 (27.1),279 (27.5),75 (28.2),774 (27.3)
+6,4,Enrolment protocol n (%),ADNI3,395 (25.5),221 (21.8),52 (19.5),668 (23.6)
+6,5,Enrolment protocol n (%),ADNI4,245 (15.8),161 (15.9),44 (16.5),450 (15.9)
+7,1,ADAS-Cog 13 at baseline,n,1551,1013,266,2830
+7,2,ADAS-Cog 13 at baseline,Mean (SD),13.403 (8.3387),17.442 (10.1183),20.238 (9.6088),15.491 (9.4468)
+7,3,ADAS-Cog 13 at baseline,Median,11.670,15.670,20.330,13.330
+7,4,ADAS-Cog 13 at baseline,"Min, Max","0.00, 51.33","0.00, 54.67","1.00, 51.33","0.00, 54.67"
+8,1,MMSE at baseline,n,1549,1013,266,2828
+8,2,MMSE at baseline,Mean (SD),28.0 (2.29),27.0 (2.78),26.2 (2.95),27.5 (2.61)
+8,3,MMSE at baseline,Median,29.0,28.0,27.0,28.0
+8,4,MMSE at baseline,"Min, Max","18, 30","15, 30","16, 30","15, 30"
+9,1,CDR-SB at baseline,n,1551,1012,266,2829
+9,2,CDR-SB at baseline,Mean (SD),1.04 (1.542),1.68 (1.824),2.22 (1.936),1.38 (1.734)
+9,3,CDR-SB at baseline,Median,0.50,1.00,1.75,1.00
+9,4,CDR-SB at baseline,"Min, Max","0.0, 10.0","0.0, 10.0","0.0, 9.0","0.0, 10.0"

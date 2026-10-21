@@ -1,0 +1,12 @@
+ord,sub,rowlbl,stat,trt0,trt1,trt2,trt3
+1,0,Disposition n (%),Retained to last eligible visit,491 (31.7),284 (28.0),64 (24.1),839 (29.6)
+1,1,Disposition n (%),Discontinued by year 2,605 (39.0),463 (45.7),149 (56.0),1217 (43.0)
+1,2,Disposition n (%),Discontinued in years 3-5,455 (29.3),266 (26.3),53 (19.9),774 (27.3)
+2,0,Death recorded n (%),No,1398 (90.1),922 (91.0),242 (91.0),2562 (90.5)
+2,1,Death recorded n (%),Yes,153 (9.9),91 (9.0),24 (9.0),268 (9.5)
+3,1,Visit retention: observed / eligible (%),Year 1,938/1445 (64.9),667/941 (70.9),194/247 (78.5),1799/2633 (68.3)
+3,2,Visit retention: observed / eligible (%),Year 2,854/1329 (64.3),546/872 (62.6),133/226 (58.8),1533/2427 (63.2)
+3,3,Visit retention: observed / eligible (%),Year 3,519/1306 (39.7),310/850 (36.5),75/222 (33.8),904/2378 (38.0)
+3,4,Visit retention: observed / eligible (%),Year 4,479/1287 (37.2),285/839 (34.0),53/218 (24.3),817/2344 (34.9)
+3,5,Visit retention: observed / eligible (%),Year 5,257/1223 (21.0),144/814 (17.7),26/212 (12.3),427/2249 (19.0)
+3,6,Visit retention: observed / eligible (%),Year 6,296/1205 (24.6),146/802 (18.2),30/212 (14.2),472/2219 (21.3)
