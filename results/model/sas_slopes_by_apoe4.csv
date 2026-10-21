@@ -1,0 +1,21 @@
+analysis,Label,Estimate,StdErr,Probt,Lower,Upper
+MAR (main),Slope: 0 e4,1.1842,0.07388,<.0001,1.0393,1.3290
+MAR (main),Slope: 1 e4,1.9801,0.09218,<.0001,1.7994,2.1608
+MAR (main),Slope: 2 e4,2.8613,0.1967,<.0001,2.4757,3.2470
+MAR (main),Slope diff: 1 vs 0 e4,0.7959,0.1185,<.0001,0.5637,1.0282
+MAR (main),Slope diff: 2 vs 0 e4,1.6772,0.2128,<.0001,1.2600,2.0944
+MAR (main),Slope diff: 2 vs 1 e4,0.8813,0.2163,<.0001,0.4572,1.3053
+Complete-case,Slope: 0 e4,0.4890,0.07858,<.0001,0.3349,0.6431
+Complete-case,Slope: 1 e4,1.2635,0.1082,<.0001,1.0513,1.4757
+Complete-case,Slope: 2 e4,1.9531,0.2481,<.0001,1.4666,2.4395
+Complete-case,Slope diff: 1 vs 0 e4,0.7745,0.1336,<.0001,0.5125,1.0366
+Complete-case,Slope diff: 2 vs 0 e4,1.4641,0.2621,<.0001,0.9500,1.9781
+Complete-case,Slope diff: 2 vs 1 e4,0.6896,0.2705,0.0109,0.1591,1.2200
+Pattern-mixture,Slope: 0 e4,1.1714,0.07543,<.0001,1.0235,1.3193
+Pattern-mixture,Slope: 1 e4,1.9482,0.09278,<.0001,1.7663,2.1300
+Pattern-mixture,Slope: 2 e4,2.8113,0.1963,<.0001,2.4265,3.1960
+Pattern-mixture,Slope diff: 1 vs 0 e4,0.7768,0.1181,<.0001,0.5452,1.0084
+Pattern-mixture,Slope diff: 2 vs 0 e4,1.6399,0.2124,<.0001,1.2234,2.0563
+Pattern-mixture,Slope diff: 2 vs 1 e4,0.8631,0.2157,<.0001,0.4402,1.2860
+Pattern-mixture,Slope diff: dropout b,0.6159,0.1783,0.0006,0.2664,0.9653
+Pattern-mixture,Slope diff: dropout y,0.2103,0.1217,0.0840,-0.02822,0.4488
