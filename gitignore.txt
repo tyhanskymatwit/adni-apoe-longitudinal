@@ -1,0 +1,17 @@
+# ADNI data may not be redistributed (ADNI Data Use Agreement)
+ADNIMERGE2/
+data/
+DATADIC*.csv
+*.rda
+*.sas7bdat
+
+# Generated outputs (contain participant-level rows: listings, individual slopes, QC exports)
+output/
+tlf/output/
+*.rtf
+*.log
+
+# Local clutter
+.Rhistory
+.RData
+.Rproj.user/
